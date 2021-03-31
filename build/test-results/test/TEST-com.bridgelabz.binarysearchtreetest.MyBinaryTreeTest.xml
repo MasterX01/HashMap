@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.binarysearchtreetest.MyBinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-31T08:37:07" hostname="DESKTOP-2DC5FKU" time="0.027">
+<testsuite name="com.bridgelabz.binarysearchtreetest.MyBinaryTreeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-31T08:46:50" hostname="DESKTOP-2DC5FKU" time="0.027">
   <properties/>
-  <testcase name="added3Numbers_IntoBST()" classname="com.bridgelabz.binarysearchtreetest.MyBinaryTreeTest" time="0.027"/>
+  <testcase name="added3Numbers_IntoBST()" classname="com.bridgelabz.binarysearchtreetest.MyBinaryTreeTest" time="0.024"/>
+  <testcase name="addingNumbers_moreThan3_ToBST()" classname="com.bridgelabz.binarysearchtreetest.MyBinaryTreeTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
