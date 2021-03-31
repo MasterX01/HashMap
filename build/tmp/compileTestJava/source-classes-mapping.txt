@@ -8,3 +8,5 @@ com/bridgelabz/hashmaptest/MyLinkedListTest.java
  com.bridgelabz.hashmaptest.MyLinkedListTest
 com/bridgelabz/hashmaptest/MyLinkedHashMapTest.java
  com.bridgelabz.hashmaptest.MyLinkedHashMapTest
+com/bridgelabz/binarysearchtreetest/MyBinaryTreeTest.java
+ com.bridgelabz.binarysearchtreetest.MyBinaryTreeTest

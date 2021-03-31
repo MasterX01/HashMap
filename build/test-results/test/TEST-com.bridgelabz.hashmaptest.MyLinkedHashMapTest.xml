@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.hashmaptest.MyLinkedHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-31T08:22:06" hostname="DESKTOP-2DC5FKU" time="0.031">
-  <properties/>
-  <testcase name="givenSentence_whenWordsAreAddedToList_ShouldRemoveAvoidableWord()" classname="com.bridgelabz.hashmaptest.MyLinkedHashMapTest" time="0.031"/>
-  <system-out><![CDATA[MyLinkedHashMap List{[com.bridgelabz.hashmap.MyLinkedList@49547a8c, com.bridgelabz.hashmap.MyLinkedList@661c2257, com.bridgelabz.hashmap.MyLinkedList@5c826761, null, null, com.bridgelabz.hashmap.MyLinkedList@283e062e, com.bridgelabz.hashmap.MyLinkedList@425499bf, com.bridgelabz.hashmap.MyLinkedList@455d1538, com.bridgelabz.hashmap.MyLinkedList@a2bdb9d, com.bridgelabz.hashmap.MyLinkedList@52fca380]}
-'Avoidable' word not found in given sentence
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

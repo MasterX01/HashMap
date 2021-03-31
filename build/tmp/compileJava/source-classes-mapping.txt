@@ -12,3 +12,7 @@ com/bridgelabz/hashmap/MyStackAndQueue.java
  com.bridgelabz.hashmap.MyStackAndQueue
 com/bridgelabz/hashmap/MyHashMap.java
  com.bridgelabz.hashmap.MyHashMap
+com/bridgelabz/binarysearchtree/MyBinaryNode.java
+ com.bridgelabz.binarysearchtree.MyBinaryNode
+com/bridgelabz/binarysearchtree/MyBinaryTree.java
+ com.bridgelabz.binarysearchtree.MyBinaryTree
