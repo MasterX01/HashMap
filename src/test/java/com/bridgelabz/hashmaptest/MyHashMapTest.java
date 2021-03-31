@@ -24,4 +24,5 @@ public class MyHashMapTest {
         Integer freq = myHashMap.get("to");
         Assertions.assertEquals(2, freq);
     }
+
 }

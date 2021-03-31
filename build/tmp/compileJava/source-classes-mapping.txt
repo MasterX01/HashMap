@@ -10,3 +10,5 @@ com/bridgelabz/hashmap/MyMapNode.java
  com.bridgelabz.hashmap.MyMapNode
 com/bridgelabz/hashmap/MyHashMap.java
  com.bridgelabz.hashmap.MyHashMap
+com/bridgelabz/hashmap/MyLinkedHashMap.java
+ com.bridgelabz.hashmap.MyLinkedHashMap

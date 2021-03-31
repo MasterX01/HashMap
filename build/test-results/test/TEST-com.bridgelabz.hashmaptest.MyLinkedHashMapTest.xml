@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.hashmaptest.MyHashMapTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-03-31T07:05:36" hostname="DESKTOP-2DC5FKU" time="0.025">
+<testsuite name="com.bridgelabz.hashmaptest.MyLinkedHashMapTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-03-31T07:31:54" hostname="DESKTOP-2DC5FKU" time="0.029">
   <properties/>
-  <testcase name="givenSentence_whenWordsAreAddedToList_ShouldReturnWordFrequency()" classname="com.bridgelabz.hashmaptest.MyHashMapTest" time="0.025">
-    <failure message="org.opentest4j.AssertionFailedError: expected: &lt;2&gt; but was: &lt;null&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;2&gt; but was: &lt;null&gt;
-	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
-	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
-	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:517)
-	at com.bridgelabz.hashmaptest.MyHashMapTest.givenSentence_whenWordsAreAddedToList_ShouldReturnWordFrequency(MyHashMapTest.java:25)
+  <testcase name="givenasentence_whenwordsareaddedtoList_shouldreturnParanoidFrequency()" classname="com.bridgelabz.hashmaptest.MyLinkedHashMapTest" time="0.029">
+    <failure message="java.lang.NullPointerException: Cannot invoke &quot;java.lang.Integer.intValue()&quot; because the return value of &quot;com.bridgelabz.hashmap.MyLinkedHashMap.get(Object)&quot; is null" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke &quot;java.lang.Integer.intValue()&quot; because the return value of &quot;com.bridgelabz.hashmap.MyLinkedHashMap.get(Object)&quot; is null
+	at com.bridgelabz.hashmaptest.MyLinkedHashMapTest.givenasentence_whenwordsareaddedtoList_shouldreturnParanoidFrequency(MyLinkedHashMapTest.java:22)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -99,6 +94,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <system-out><![CDATA[]]></system-out>
+  <system-out><![CDATA[MyLinkedHashMap List{[com.bridgelabz.hashmap.MyLinkedList@5a717e62, com.bridgelabz.hashmap.MyLinkedList@6524551f, com.bridgelabz.hashmap.MyLinkedList@3958e47, null, null, com.bridgelabz.hashmap.MyLinkedList@5f4cbd08, com.bridgelabz.hashmap.MyLinkedList@e9f5aed, com.bridgelabz.hashmap.MyLinkedList@49547a8c, com.bridgelabz.hashmap.MyLinkedList@661c2257, com.bridgelabz.hashmap.MyLinkedList@5c826761]}
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
