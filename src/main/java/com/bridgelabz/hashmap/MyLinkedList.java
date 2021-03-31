@@ -79,7 +79,7 @@ public class MyLinkedList<K> {
         return value;
     }
 
-    public void delete(INode node){
+    public void delete(K node){
         INode tempnode = head;
         INode result=null;
         while (tempnode!=null && tempnode!=node){
